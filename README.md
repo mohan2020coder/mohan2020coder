@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohan2020coder
 - 👀 I’m interested in Coding, Watching movies, listening music
-- 🌱 I’m currently learning Pthon
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me mohan18.welcome@gmail.com
 
