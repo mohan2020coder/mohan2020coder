@@ -1,6 +1,6 @@
 - 👋 Hi,
   
-Welcome to my developer portfolio! I'm a versatile software engineer proficient in Golang, Python, and React, passionate about building robust and scalable applications. Below, you'll find an overview of my skills, and how to get in touch.
+Welcome to my developer portfolio! I'm a versatile software engineer proficient in Golang, Python, Laravel and React, passionate about building robust and scalable applications. Below, you'll find an overview of my skills, and how to get in touch.
 
 Skills
 Golang: Proficient in building efficient and concurrent applications using Golang. Experienced in creating RESTful APIs, microservices, and command-line tools.
